@@ -1,46 +1,59 @@
-# 🏥 Hospital Management System (SQL Project)
+# 🏥 Hospital Management System — Esraa Vital Institute
 
-A comprehensive relational database management system built using SQL (Oracle / PL-SQL), designed to efficiently manage hospital operations including patients, doctors, departments, appointments, billing, and medical records.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 
-## 🚀 Features & Technical Implementation
-This project covers advanced database concepts and implementation:
-- **Relational Tables & Constraints:** Primary Keys, Foreign Keys, Unique, Check, and Not Null constraints.
-- **Data Manipulation:** Sample insert scripts with realistic medical data.
-- **Advanced Queries:** Complex Joins, Subqueries, aggregations, and filtering.
-- **Views:** Simplified and secure virtual tables for reporting.
-- **Indexes & Sequences:** Optimized query performance and automated ID generation.
-- **PL/SQL (Functions & Procedures):** Reusable business logic for data processing.
-- **Triggers:** Automated auditing, logging, and data validation rules.
-- **Transactions:** Transaction control (Savepoint, Commit, Rollback) ensuring data integrity.
+A modern, responsive, and visually compelling front-end web application designed for medical centers and hospital management. This project provides a complete showcase for healthcare services, Arab medical consultants, and an interactive online appointment scheduling interface.
 
 ---
 
-## 📂 Database Schema & Structure
+## 🌟 Key Features
+
+- ** Modern & Clean Healthcare Aesthetic**: Soft medical color scheme, custom shadows, interactive hover animations, and crisp typography (*Plus Jakarta Sans*).
+- ** Arab Medical Consultants Showcase**: Profiles featuring senior consultants with qualifications, specialized departments, and years of experience.
+- ** Core Medical Departments Grid**: Interactive display for Cardiology, Pediatrics, Neurology, and Vitality & Wellness.
+- ** Online Appointment Scheduling System**: Fully styled form allowing patients to select departments, preferred doctors, and consultation dates.
+- ** Emergency Response Banner**: Direct emergency contact widgets for urgent medical support.
+- ** Fully Responsive Architecture**: Perfectly tailored for mobile devices, tablets, and desktop displays.
+
+---
+
+## 🛠️ Tech Stack & Technologies
+
+- **HTML5**: Semantic structure for better accessibility and SEO performance.
+- **CSS3**: Custom CSS variables, Flexbox, CSS Grid layout, and smooth UI transition effects.
+- **Font Awesome 6**: Rich vector icons for medical clinics, navigation, and contact forms.
+- **Google Fonts**: Modern *Plus Jakarta Sans* typography for professional UI text rendering.
+
+---
+
+## 📂 Repository Structure
 
 ```text
 Hospital-Management-System/
 │
-├── database/
-│   ├── 01_create_tables.sql            # Tables, Constraints, Sequences, Indexes
-│   ├── 02_insert_data.sql              # Initial Dummy Data
-│   ├── 03_views.sql                    # Reporting Views
-│   ├── 04_functions_and_procedures.sql # Stored Procedures & Functions
-│   ├── 05_triggers.sql                 # Database Triggers
-│   ├── 06_transactions.sql             # Transaction Control Examples
-│   └── 07_queries_and_joins.sql        # Complex Queries & Joins
-│
-└── README.md
+├── index.html        # Main platform interface containing structure, styling & logic
+└── README.md         # Project documentation and repository summary
 ```
 
 ---
 
-## 🛠️ How to Run
-1. Clone or download this repository.
-2. Open your preferred SQL client (Oracle FreeSQL, SQL Developer, MySQL Workbench, etc.).
-3. Run the scripts sequentially from `01_create_tables.sql` up to `07_queries_and_joins.sql`.
+## 🚀 How to Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/esraaAhmed18/Hospital-Management-System.git
+   ```
+2. **Launch the platform:**
+   Navigate into the project folder and open `index.html` in any web browser.
 
 ---
 
-## 👩‍💻 Author
-**Esraa Ahmed**  
-Undergraduate Student | Information Technology & Computer Science
+## 👩‍💻 Author & Purpose
+
+Designed and developed by **Esraa Ahmed**, Undergradduate Student│Information Technology & Computer Science , as part of her academic projects and professional web development portfolio.
+
+---
+*&copy; 2026 Esraa Vital Institute. All Rights Reserved.*
