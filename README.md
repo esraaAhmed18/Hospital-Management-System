@@ -42,5 +42,5 @@ Hospital-Management-System/
 ---
 
 ## 👩‍💻 Author
-**إسراء احمد**  
+**Esraa Ahmed**  
 Undergraduate Student | Information Technology & Computer Science
